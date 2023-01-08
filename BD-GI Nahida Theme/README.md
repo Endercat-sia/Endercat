@@ -7,8 +7,11 @@ Since it is uploaded to Github where is easier to update files and editting, fil
 Link: https://github.com/Endercat-sia/Endercat/tree/main/BD-GI%20Nahida%20Theme
 
 NF - Normal Fonts
+
 SF - Sumeru Fonts
+
 **Beta Version will always be in SF**
+
 
 After tested, NF is less lagging than SF
 
