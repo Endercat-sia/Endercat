@@ -25,3 +25,6 @@ To install:
 2. Open your discord and go to User Settings>BETTERDISCORD>Themes>Open Themes Folder
 3. A window of file manager will be opened and put the theme into that folder
 4. Get back to your discord and enable the theme
+5. Enjoy the theme
+
+~~Nahida so cute~~
