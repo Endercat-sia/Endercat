@@ -1,4 +1,6 @@
 ﻿Theme Made By Endercat末影猫 (Endercat#6650)
+ 
+ Since it is uploaded to Github where is easier to update files and editting, files in googlde drive will be updated slower than here.
 
 NF - Normal Fonts
 SF - Sumeru Fonts
