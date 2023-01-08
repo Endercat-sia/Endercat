@@ -16,6 +16,7 @@ SF - Sumeru Fonts
 After tested, NF is less lagging than SF
 
 To install:
+
 0. If you are using the theme with Sumeru fonts, please install SumeruFonts4DiscordTheme-Regular.otf @ \BD-GI Nahida Theme\Fonts\SumeruFonts4DiscordTheme-Regular.otf
 1. Install Betterdiscord @ https://betterdiscord.app/
 2. Open your discord and go to User Settings>BETTERDISCORD>Themes>Open Themes Folder
