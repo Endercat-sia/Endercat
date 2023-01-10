@@ -1,6 +1,8 @@
-#Theme Made By Endercat末影猫 (Endercat#6650)
+# README
 
-##Information
+## Information
+
+Theme Made By Endercat末影猫 (Endercat#6650)
 
 There will be no google drive verion of this theme
 
@@ -10,9 +12,9 @@ NF - Normal Fonts
 
 FF - Fontaine Fonts
 
-##To install:
+## To install:
 
-0. If you are using the theme with Sumeru fonts, please install FontaineFonts4DiscordTheme-Regular.otf @ \???\???\???\??? (Not Yet)
+0. If you are using the theme with Fontaine fonts, please install FontaineFonts4DiscordTheme-Regular.otf @ \???\???\???\??? (Not Yet)
 1. Install Betterdiscord @ https://betterdiscord.app/
 2. Open your discord and go to User Settings>BETTERDISCORD>Themes>Open Themes Folder
 3. A window of file manager will be opened and put the theme into that folder
