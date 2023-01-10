@@ -12,6 +12,13 @@ NF - Normal Fonts
 
 FF - Fontaine Fonts
 
+## Preview
+
+![Preview -1 (Settings)](https://github.com/Endercat-sia/Endercat/blob/main/BD-GI%20Focalors%20Theme/Preview/Preview%20-1.png?raw=true)
+
+
+![Preview -2 (In Server)](https://github.com/Endercat-sia/Endercat/blob/main/BD-GI%20Focalors%20Theme/Preview/Preview%20-2.png?raw=true)
+
 ## To install:
 
 0. If you are using the theme with Fontaine fonts, please install FontaineFonts4DiscordTheme-Regular.otf @ \???\???\???\??? (Not Yet)
