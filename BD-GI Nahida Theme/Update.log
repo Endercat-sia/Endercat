@@ -27,3 +27,9 @@ SF - Sumeru Fonts
 NF 0.3.0 - 8 Jan 2023
 Created 0.3.0 Version with normal fonts
 NF 0.3.0 is less lagging than SF 0.3.0
+
+Beta: 0.3.50 - 9 Jan 2023
+Started test of not loading fonts in theme but the use of extension
+
+10 Jan 2023
+SumeruFonts4DiscordTheme was updated and fixed the problem of right parenthesis [ ")" or U+0029] will not display
