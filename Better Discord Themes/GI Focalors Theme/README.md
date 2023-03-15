@@ -12,7 +12,7 @@ NF - Normal Fonts
 
 FF - Fontaine Fonts
 
-## Preview
+## Preview (Out Dated)
 
 ![Preview -1 (Settings)](https://github.com/Endercat-sia/Endercat/tree/main/Better%20Discord%20Themes/GI%20Focalors%20Theme/Preview%20(Out%20Dated)/Preview%20-1.png?raw=true)
 
