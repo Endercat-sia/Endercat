@@ -1,0 +1,114 @@
+/**
+ * @name Genshin Impact Focalors 0.1.50
+ * @author Endercat末影猫 (Endercat#6650)
+ * @version ersion: Beta, Does Not Indicate The Final Version!
+ * @description Made By Endercat末影猫
+*/
+
+/**
+ * !!!This theme is totally free and if you get it by paying, please ask for refund and give a bad review!!!
+ * !!!Redistributer and seller whole family dies!!!
+*/
+
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://raw.githubusercontent.com/Endercat-sia/Endercat/main/Media/Focalors_Test.png');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: transparent;
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://raw.githubusercontent.com/Endercat-sia/Endercat/main/Media/Home_Button_Focalors.jpg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.6;
+  --left-brightness: 0.4;
+  --made-by: #456e64;
+  --middle-brightness: 0.4;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.4;
+  --gradient-secondary: 21, 170, 255;
+  --gradient-primary: 173, 247, 242;
+  --link-colour: #62ffff;
+  --scrollbar-colour: rgba(0, 255, 255, 0.5);
+  --gradient-direction: 225deg;
+  --tint-colour: 114, 514, 191;
+  --tint-brightness: 0;
+  --font: 'Comfortaa';
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --show-gift-gif-buttons: block;
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --water-mark: #657263;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 2.5px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 41.5%;
+  --rs-online-color: rgba(0, 162, 255, 0.675);
+  --rs-idle-color: rgba(0, 255, 255, 0.675);
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: rgba(255, 100, 0, 0.675);
+  --rs-streaming-color: rgba(255, 0, 100, 0.675);
+  --server-color: #00ffdda0;
+  --chat-color: #00ffff50;
+  --ec-value-3: #617400;
+   --customFont: '汉仪文黑-85W';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**This Is Endercat's Watermark
+ * !!!This theme is totally free and if you get it by paying, please ask for refund and give a bad review!!!
+ * !!!Redistributer and seller whole family dies!!!
+*/
