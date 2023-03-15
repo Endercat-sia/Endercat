@@ -2,7 +2,7 @@
 
 ## Information
 
-Theme Made By Endercat末影猫 (Endercat#6650)
+Themes Made By Endercat末影猫 (Endercat#6650)
  
 Since it is uploaded to Github where is easier to update files and editting, files in google drive will be updated slower than here.
 
