@@ -14,10 +14,10 @@ FF - Fontaine Fonts
 
 ## Preview
 
-![Preview -1 (Settings)](https://github.com/Endercat-sia/Endercat/blob/main/BD-GI%20Focalors%20Theme/Preview/Preview%20-1.png?raw=true)
+![Preview -1 (Settings)](https://github.com/Endercat-sia/Endercat/tree/main/Better%20Discord%20Themes/GI%20Focalors%20Theme/Preview%20(Out%20Dated)/Preview%20-1.png?raw=true)
 
 
-![Preview -2 (In Server)](https://github.com/Endercat-sia/Endercat/blob/main/BD-GI%20Focalors%20Theme/Preview/Preview%20-2.png?raw=true)
+![Preview -2 (In Server)](https://github.com/Endercat-sia/Endercat/tree/main/Better%20Discord%20Themes/GI%20Focalors%20Theme/Preview%20(Out%20Dated)/Preview%20-2.png?raw=true)
 
 ## To install:
 
