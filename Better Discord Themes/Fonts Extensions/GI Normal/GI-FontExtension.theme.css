@@ -1,5 +1,5 @@
 ﻿/**
- * @name Font Extensions For Endercat's Theme - Sumeru
+ * @name Font Extensions For Endercat's Theme - GI-Normal
  * @author Endercat末影猫 (Endercat#6650)
  * @version ersion: Final
  * @description Made By Endercat末影猫
@@ -7,10 +7,9 @@
  * @authorLink https://github.com/Endercat-sia/
 */
 
-@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 
 :root {
-  --customFont: '汉仪文黑-85W';
+  --font: 汉仪文黑-85W;
 }
 
 
