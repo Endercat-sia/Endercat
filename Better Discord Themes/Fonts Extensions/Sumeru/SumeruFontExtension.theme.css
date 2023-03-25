@@ -9,7 +9,8 @@
 
 
 :root {
-  --Font: 'SumeruFonts4DiscordTheme';
+  --font-primary: 'SumeruFonts4DiscordTheme';
+  --font-display: 'SumeruFonts4DiscordTheme';
 }
 
 
